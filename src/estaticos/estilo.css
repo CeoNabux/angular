@@ -1,0 +1,36 @@
+/*
+	Selector de atributos:  A la etiqueta 'h1' cuyo atributo id contenga por el texto "itu"
+	Propiedad:  tamaño de la fuente 4.2rem
+*/
+
+/*
+	Selector de adyacente: A la etiqueta 'a' que es adyacente a la etiqueta 'div' con clase 'h3'
+	Propiedad:  sin subrayado
+*/
+
+/*
+	Selector de clase: A la etiqueta 'svg' con clase 'feather'
+	Propiedad:  alto y ancho igual a 0.8rem
+*/
+
+/*
+	Selector de desplazamiento: Al pasar el mouse por encima de la etiqueta 'a', con clase 'text-arrow-icon'
+	Propiedad:  en negrita
+*/
+
+/*
+	Selector descendiente: A la etiqueta con clase 'fila' que es descendiente de la etiqueta 'main'
+	Propiedad:  
+
+		Mostrar en una rejilla de dos columnas
+		Separación de 5%  entre filas y columnas 
+*/
+
+/*
+	Selector de hijos: A la primera etiqueta que es hija del selector div.plantilla
+	Propiedad:  
+
+		borde de la izquierda de color rojo sólido con 0.25rem de grosor.
+		borde redondeado de 0.25rem
+*/
+
